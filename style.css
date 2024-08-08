@@ -1,0 +1,37 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.bro{
+  color:#2d4c7d;
+  font-family: 'Protest Strike', sans-serif;
+}
+
+.bro2{
+  color:#2d4c7d;
+  font-family: 'Protest Strike', sans-serif;
+}
+
+.card important{
+  text-align: center;
+}
+
+.card-body{
+  place-content: center;
+  text-align:center;
+}
+
+.bb{
+  background-color: #2d4c7d;
+}
+
+.card-body{
+  background-color:#2b3035;
+}
+
+.card-text{
+  color: #2d4c7d ;
+}
+.card-title{
+  color: #2d4c7d ;
+}
